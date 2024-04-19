@@ -1,1 +1,2 @@
 # Python_Challenge
+This challenge consisted of a lot of trial and error and I used the XpertLearningAssistant a lot as well as chatgpt to help guide me though the challenge. I did not copy any code, but I did use what it provided me, along with referencing earlier activites and instructor demos from Python 1-3 in the UCI folder on gitlab. I throuroughly commented and explained my code to trail my reasonings and thought process throughout.
